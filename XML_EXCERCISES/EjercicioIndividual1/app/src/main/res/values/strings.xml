@@ -1,0 +1,7 @@
+<resources>
+    <string name="label_name">Jose Roberto</string>
+    <string name="title">Escribe tu nombre</string>
+    <string name="app_name">EjercicioIndividual1</string>
+    <string name="button_saludo">SALUDO</string>
+    <string name="hola">"Hola,  "</string>
+</resources>
